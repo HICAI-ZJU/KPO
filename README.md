@@ -6,7 +6,7 @@ The official implementation of the ACL'2025 paper Enhancing Safe and Controllabl
 
 Protein language models are powerful tools for protein sequence generation and design, but they also pose biosafety and ethical risks by potentially generating harmful proteins. This project introduces a Knowledge-guided Preference Optimization (KPO) framework that leverages a Protein Safety Knowledge Graph and reinforcement learning to guide sequence generation towards safer outcomes.
 
-![fig1](.\fig\fig1.png)
+![fig1](fig/fig1.png)
 
 # Environments
 
