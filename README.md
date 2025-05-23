@@ -25,8 +25,7 @@ This project consists of five main steps: data preparation, knowledge graph cons
    
    - [go.obo](https://geneontology.org/docs/download-ontology/) (Gene Ontology ontology file)
    - [uniprot_sprot.dat](https://www.uniprot.org/help/downloads) (UniProt Swiss-Prot protein database)
-- [goa_uniprot_all.gaf](https://ftp.ebi.ac.uk/pub/databases/GO/goa/old/UNIPROT/) (GOA annotation file, please use the latest version)
-  
+   - [goa_uniprot_all.gaf](https://ftp.ebi.ac.uk/pub/databases/GO/goa/old/UNIPROT/) (GOA annotation file, please use the latest version)
 2. **Generate the Protein Safety Knowledge Graph**  
    Run the following command to parse the above files and generate the updated knowledge graph:
    
